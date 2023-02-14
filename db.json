@@ -699,7 +699,7 @@
       {
         "name": "Роллы",
         "id": "Rolls",
-        "isCurrent": false
+        "isCurrent": true
       },
       {
         "name": "Супы и карри",
