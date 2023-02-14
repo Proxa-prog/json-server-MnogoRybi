@@ -58,7 +58,27 @@
 
 const express = require('express');
 const app = express();
-app.get('/', (req, res) => res.send('Home Page Route'));
+app.get('/productions', (req, res) => res.send([
+    {
+        "id": "1",
+        "imageUrl": "poke/poke_with_turkey.jpg",
+        "header": "Фирменный поке с индейкой",
+        "description": "Состав на усмотрение шеф-повара",
+        "cost": "360",
+        "previousCost": "360",
+        "buttonColor": "yellow",
+        "statuses": [
+            {
+                "children": "Хит",
+                "color": "blue"
+            },
+            {
+                "children": "-10%",
+                "color": "purple"
+            }
+        ]
+    }]
+));
 app.get('/about', (req, res) => res.send('About Page Route'));
 app.get('/portfolio', (req, res) => res.send('Portfolio Page Route'));
 app.get('/contact', (req, res) => res.send('Contact Page Route'));
