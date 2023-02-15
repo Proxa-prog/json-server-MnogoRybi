@@ -12,6 +12,19 @@
   "productions": {
     "poke": [
       {
+        "id": "0",
+        "imageUrl": "createPokePreview.jpg",
+        "header": "Конструктор поке",
+        "description": "Создай свой идеальный поке",
+        "buttonColor": "white",
+        "statuses": [
+          {
+            "children": "Идеальный выбор",
+            "color": "blue"
+          }
+        ]
+      },
+      {
         "id": "1",
         "imageUrl": "poke/poke_with_turkey.jpg",
         "header": "Фирменный поке с индейкой",
