@@ -18,6 +18,7 @@
         "description": "Создай свой идеальный поке",
         "buttonColor": "white",
         "buttonText": "Создать поке",
+        "isPreview": "true",
         "statuses": [
           {
             "children": "Идеальный выбор",
