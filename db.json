@@ -13,7 +13,7 @@
     "poke": [
       {
         "id": "0",
-        "imageUrl": "createPokePreview.jpg",
+        "imageUrl": "createPokePreview.png",
         "header": "Конструктор поке",
         "description": "Создай свой идеальный поке",
         "buttonColor": "white",
