@@ -17,6 +17,7 @@
         "header": "Конструктор поке",
         "description": "Создай свой идеальный поке",
         "buttonColor": "white",
+        "buttonText": "Создать поке",
         "statuses": [
           {
             "children": "Идеальный выбор",
