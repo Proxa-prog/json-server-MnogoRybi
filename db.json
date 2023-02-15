@@ -694,12 +694,12 @@
       {
         "name": "Поке",
         "id": "Poke",
-        "isCurrent": true
+        "isCurrent": false
       },
       {
         "name": "Роллы",
         "id": "Rolls",
-        "isCurrent": true
+        "isCurrent": false
       },
       {
         "name": "Супы и карри",
