@@ -1,10 +1,10 @@
-// const fs = require('fs');
-const jsonServer = require('json-server');
-const path = require('path');
-// server.post('/login', (req, res) => {
+// const fs = require("fs");
+const jsonServer = require("json-server");
+const path = require("path");
+// server.post("/login", (req, res) => {
 //     try {
 //         const { username, password } = req.body;
-//         const db = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'db.json'), 'UTF-8'));
+//         const db = JSON.parse(fs.readFileSync(path.resolve(__dirname, "db.json"), "UTF-8"));
 //         const { users = [] } = db;
 //
 //         const userFromBd = users.find(
@@ -15,7 +15,7 @@ const path = require('path');
 //             return res.json(userFromBd);
 //         }
 //
-//         return res.status(403).json({ message: 'User not found' });
+//         return res.status(403).json({ message: "User not found" });
 //     } catch (e) {
 //         console.log(e);
 //         return res.status(500).json({ message: e.message });
@@ -26,19 +26,19 @@ const path = require('path');
 // // eslint-disable-next-line
 // server.use((req, res, next) => {
 //     if (!req.headers.authorization) {
-//         return res.status(403).json({ message: 'AUTH ERROR' });
+//         return res.status(403).json({ message: "AUTH ERROR" });
 //     }
 //
 //     next();
 // });
 
 const server = jsonServer.create();
-const router = jsonServer.router(path.resolve(__dirname, 'db.json'));
+const router = jsonServer.router(path.resolve(__dirname, "db.json"));
 
 server.use(jsonServer.defaults({}));
 server.use(jsonServer.bodyParser);
 
 server.use(router);
 server.listen(2525, () => {
-    console.log('server is running on 2525 port');
+    console.log("server is running on 2525 port");
 });
