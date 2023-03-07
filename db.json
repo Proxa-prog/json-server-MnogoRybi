@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "first"name"": "user",
+      "firstName": "user",
       "email": "qwerty@mail.ru",
       "phone": "8888888888",
       "password": "qwerty",
@@ -897,12 +897,12 @@
          "name": "Соба"
         }
       ],
-      "stepNumber": "1",
+      "stepNumber": 1,
       "header": "Выберите основу",
       "image": {
         "url": "poke_bowl.svg",
-        "width": "50",
-        "height": "50",
+        "width": 50,
+        "height": 50,
         "alt": "Альтернативный текст"
       }
     },
@@ -945,12 +945,12 @@
           "name": "Морской гребешок"
         }
       ],
-      "stepNumber": "2",
+      "stepNumber": 2,
       "header": "Протеин",
       "image": {
         "url": "fish.svg",
-        "width": "50",
-        "height": "50",
+        "width": 50,
+        "height": 50,
         "alt": "Альтернативный текст"
       }
 },
@@ -990,20 +990,20 @@
         "name": "Медово-горчичный"
       }
     ],
-    "stepNumber": "5",
+    "stepNumber": 5,
     "header": "Соус",
     "image": {
       "url": "sauces.svg",
-      "width": "50",
-      "height": "50",
+      "width": 50,
+      "height": 50,
       "alt": "Альтернативный текст"
     }
 },
     "fillers": {
       "contentHeader": {
         "name": "Наполнители",
-        "howMuchIsLeft": "3",
-        "total": "5"
+        "howMuchIsLeft": 3,
+        "total": 5
       },
       "productsType": [
         {
@@ -1067,20 +1067,20 @@
           "name": "Свежий огурчик"
         }
       ],
-      "stepNumber": "3",
+      "stepNumber": 3,
       "header": "Наполнитель",
       "image": {
         "url": "carrot_2.svg",
-        "width": "50",
-        "height": "50",
+        "width": 50,
+        "height": 50,
         "alt": "Альтернативный текст"
       }
     },
     "topping": {
       "contentHeader": {
         "name": "Топпинг",
-        "howMuchIsLeft": "1",
-        "total": "1"
+        "howMuchIsLeft": 1,
+        "total": 1
       },
       "productsType": [
         {
@@ -1108,12 +1108,12 @@
           "name": "Манго"
         }
       ],
-      "stepNumber": "4",
+      "stepNumber": 4,
       "header": "Топпинг",
       "image": {
         "url": "pinapple.svg",
-        "width": "50",
-        "height": "50",
+        "width": 50,
+        "height": 50,
         "alt": "Альтернативный текст"
       }
     },
@@ -1150,12 +1150,12 @@
           "name": "Семечки подсолн."
         }
       ],
-      "stepNumber": "6",
+      "stepNumber": 6,
       "header": "Хруст",
       "image": {
         "url": "peanut.svg",
-        "width": "50",
-        "height": "50",
+        "width": 50,
+        "height": 50,
         "alt": "Орешки"
       }
     },
