@@ -1002,7 +1002,7 @@
     "fillers": {
       "contentHeader": {
         "name": "Наполнители",
-        "howMuchIsLeft": 3,
+        "howMuchIsLeft": 0,
         "total": 5
       },
       "productsType": [
@@ -1079,7 +1079,7 @@
     "topping": {
       "contentHeader": {
         "name": "Топпинг",
-        "howMuchIsLeft": 1,
+        "howMuchIsLeft": 0,
         "total": 1
       },
       "productsType": [
