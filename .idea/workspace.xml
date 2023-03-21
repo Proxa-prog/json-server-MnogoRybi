@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="fix mistakes">
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-    </list>
+    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="fix mistakes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +26,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/projects/jsonServerMnogoRybi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/MnogoRybi&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678184786776</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix mistakes">
+      <created>1679301712005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679301712005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pokeIngredients" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pokeIngredients" />
+    <MESSAGE value="fix mistakes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix mistakes" />
   </component>
 </project>
