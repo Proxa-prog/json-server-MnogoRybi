@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="fix mistakes" />
+    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="add filters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +81,7 @@
       <workItem from="1676459612770" duration="99000" />
       <workItem from="1678179991213" duration="8000" />
       <workItem from="1678180043175" duration="2525000" />
+      <workItem from="1679396633339" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="add pokeIngredients">
       <created>1678184786776</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679301712005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add filters">
+      <created>1679396807824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679396807824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pokeIngredients" />
     <MESSAGE value="fix mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix mistakes" />
+    <MESSAGE value="add filters" />
+    <option name="LAST_COMMIT_MESSAGE" value="add filters" />
   </component>
 </project>
