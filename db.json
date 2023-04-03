@@ -2558,22 +2558,22 @@
       {
         "name": "Франшиза",
         "id": "franchise",
-        "isCurrent": "false"
+        "isCurrent": false
       },
       {
         "name": "Доставка",
         "id": "delivery",
-        "isCurrent": "false"
+        "isCurrent": false
       },
       {
         "name": "Новости",
         "id": "news",
-        "isCurrent": "false"
+        "isCurrent":  false
       },
       {
         "name": "Контакты",
         "id": "contacts",
-        "isCurrent": "false"
+        "isCurrent": false
       }
     ],
     "footerLinksNames": [
