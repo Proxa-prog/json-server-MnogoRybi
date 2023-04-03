@@ -2557,19 +2557,23 @@
     "pagesNames": [
       {
         "name": "Франшиза",
-        "id": "franchise"
+        "id": "franchise",
+        "isCurrent": "false"
       },
       {
         "name": "Доставка",
-        "id": "delivery"
+        "id": "delivery",
+        "isCurrent": "false"
       },
       {
         "name": "Новости",
-        "id": "news"
+        "id": "news",
+        "isCurrent": "false"
       },
       {
         "name": "Контакты",
-        "id": "contacts"
+        "id": "contacts",
+        "isCurrent": "false"
       }
     ],
     "footerLinksNames": [
