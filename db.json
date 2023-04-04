@@ -2445,7 +2445,7 @@
     }
   ],
   "restaurantLocation": {
-    "restautantPopupCoordinates": [
+    "restaurantPopupCoordinates": [
       {
         "lat": "57.64647",
         "lng": "39.85169"
@@ -2463,7 +2463,7 @@
         "lng": "39.960096"
       }
     ],
-    "restautantMapCenter": {
+    "restaurantMapCenter": {
       "lat": "57.628497",
       "lng": "39.905368"
     }

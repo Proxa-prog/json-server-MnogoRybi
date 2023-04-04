@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="add isCurrent for pageNames">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3996550e-23c3-48c1-8203-2e76dc62989b" name="Changes" comment="delete quotes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +94,7 @@
       <workItem from="1680262755526" duration="39000" />
       <workItem from="1680531649052" duration="86000" />
       <workItem from="1680531794245" duration="12000" />
+      <workItem from="1680531990462" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="add pokeIngredients">
       <created>1678184786776</created>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680531725120</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="delete quotes">
+      <created>1680532044722</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680532044722</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +225,7 @@
     <MESSAGE value="remove array" />
     <MESSAGE value="add many orders" />
     <MESSAGE value="add isCurrent for pageNames" />
-    <option name="LAST_COMMIT_MESSAGE" value="add isCurrent for pageNames" />
+    <MESSAGE value="delete quotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete quotes" />
   </component>
 </project>
